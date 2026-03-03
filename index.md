@@ -8,7 +8,7 @@ author_profile: true
 author: Zachary Cunningham
 ---
 
-<link rel="stylesheet" href="assets/css/custom.css">
+<link rel="stylesheet" href="/assets/css/custom.css">
 
 ## Occupation
 
