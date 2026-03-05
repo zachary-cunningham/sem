@@ -1,0 +1,11 @@
+Zachary Cunningham:
+    name: 'Zachary Cunningham'
+    bio: 'Learning full-stack software engineering.'
+    avatar: '/assets/images/myface.jpeg'
+    links:
+        - label: 'GitHub'
+          icon: 'fas fa-fw fa-link'
+          url: 'https://github.com/zachary-cunningham'
+        - label: 'LinkedIn'
+          icon: 'fas fa-fw fa-link'
+          url: 'https://www.linkedin.com/in/zachary-c-28412228b/'

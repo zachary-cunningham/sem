@@ -1,0 +1,9 @@
+remote_theme: 'mmistakes/minimal-mistakes@4.24.0'
+
+minimal_mistakes_skin: 'dark'
+description: Welcome to my portfolio.
+
+plugins:
+    - jekyll-include-cache
+
+repository: codebreakthrough-com/codebreakthrough-com.github.io

@@ -1,0 +1,51 @@
+h1{
+    display:none;
+    color:red;
+}
+
+#roles-im-searching-for{
+    margin-top:5px;
+}
+
+/* Hide site title completely */
+.site-title,
+.masthead__inner-wrap,
+.masthead {
+    display: none !important;
+}
+
+/* GitHub dark mode background */
+html,
+body,
+.page {
+    background-color: #0d1117 !important;
+}
+
+/* Table of contents - match GitHub background */
+.toc,
+.toc .nav__title,
+.sidebar__right {
+    background-color: #0d1117 !important;
+}
+
+/* TOC links - ONLY colors change when highlighted */
+.toc__menu .active > a {
+    color: #0d1117 !important;
+    background-color: #ffffff !important;
+}
+
+/* Fix sidebar - prevent greying out */
+.sidebar {
+    opacity: 1 !important;
+}
+
+.author__avatar img {
+    opacity: 1 !important;
+}
+
+.author__content,
+.author__name,
+.author__bio,
+.author__urls {
+    opacity: 1 !important;
+}
