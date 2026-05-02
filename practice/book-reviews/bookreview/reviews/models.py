@@ -1,3 +1,9 @@
 from django.db import models
 
-# Create your models here.
+class Review(models.Model):
+	# required
+	title = models.CharField()
+	author = models.CharField()
+	rating = models.IntegerField()
+	
+	body = models.TextField(blank=True) # allow blank
